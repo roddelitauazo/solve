@@ -1,6 +1,6 @@
 [versions]
 sophisticated = "2.24.2"
-substance = "3.4.1"
+substance = "3.4.3"
 
 [libraries]
 sophisticated = { module = "org.apache.logging.log4j:log4j-slf4j2-impl", version.ref = "sophisticated" }
